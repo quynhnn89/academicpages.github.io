@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quynh Nguyen / Research Blog"
+title                    : "Quynh Nguyen"
 title_separator          : "-"
 name                     : &name "Quynh Nguyen"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://quynhnn89.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quynhnn89/quynhnn89.github.io"
@@ -54,8 +54,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
-facebook:
+  username               :  
+facebook                 : 
   username               : 
   app_id                 :
   publisher              :
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Quynh Nguyen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : 
+  location         : "Germany"
   employer         : 
   googlescholar    : "https://scholar.google.de/citations?user=WJNkMakAAAAJ&hl=en&oi=ao"
   email            : 
