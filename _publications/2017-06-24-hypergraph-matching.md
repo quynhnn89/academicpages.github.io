@@ -3,7 +3,7 @@ title: "A Flexible Tensor Block Coordinate Ascent Scheme for Hypergraph Matching
 collection: publications
 permalink: /publication/2017-06-24-hypergraph-matching
 excerpt: 'The estimation of correspondences between two images resp. point sets is a core problem in computer vision. One way to formulate the problem is graph matching leading to the quadratic assignment problem which is NP-hard. Several so called second order methods have been proposed to solve this problem. In recent years hypergraph matching leading to a third order problem became popular as it allows for better integration of geometric information. For most of these third order algorithms no theoretical guarantees are known. In this paper we propose a general framework for tensor block coordinate ascent methods for hypergraph matching. We propose two algorithms which both come along with the guarantee of monotonic ascent in the matching score on the set of discrete assignment matrices. In the experiments we show that our new algorithms outperform previous work both in terms of achieving better matching scores and matching accuracy. This holds in particular for very challenging settings where one has a high number of outliers and other forms of noise.'
-date: 2015
+date: 2017-06-25
 venue: 'CVPR'
 paperurl: 'http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_A_Flexible_Tensor_2015_CVPR_paper.pdf'
 ---
