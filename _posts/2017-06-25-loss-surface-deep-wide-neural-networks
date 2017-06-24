@@ -7,6 +7,7 @@ tags:
   - loss surface
   - local minima
 ---
-
+Why does deep leanring does not suffer from suboptimal local minima? 
+In which conditions can one guarantee that every local minimum is global minimum?
 
 ------
