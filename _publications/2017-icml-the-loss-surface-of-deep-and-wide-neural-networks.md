@@ -6,6 +6,7 @@ excerpt: 'While the optimization problem behind deep neural networks is highly n
 venue: 'ICML'
 date: 2017-03-01
 paperurl: 'https://arxiv.org/pdf/1704.08045.pdf'
+citation: Q. Nguyen, M. Hein
 ---
 While the optimization problem behind deep neural networks is highly non-convex, it is frequently observed in practice that training deep networks seems possible without getting stuck in suboptimal points. It has been argued that this is the case as all local minima are close to being globally optimal. We show that this is (almost) true, in fact almost all local minima are globally optimal, for a fully connected network with squared loss and analytic activation function given that the number of hidden units of one layer of the network is larger than the number of training points and the network structure from this layer on is pyramidal.
 [Download paper here](https://arxiv.org/pdf/1704.08045.pdf)
