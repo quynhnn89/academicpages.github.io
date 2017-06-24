@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: " A Flexible Tensor Block Coordinate Ascent Scheme for Hypergraph Matching"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2015-a-flexible-tensor-block-coordinate-ascent-scheme-for-hypergraph-matching
+excerpt: 'The estimation of correspondences between two images resp.  point sets is a core problem in computer vision.  One way to formulate the problem is graph matching leading to the quadratic assignment problem which is NP-hard.  Several  so  called  second  order  methods  have  been  proposed to solve this problem.  In recent years hypergraph matching leading to a third order problem became popular as it allows for better integration of geometric information.  For most of these third order algorithms no theoretical guarantees are known.  In this paper we propose a general framework for tensor block coordinate ascent methods for hypergraph  matching.   We  propose  two  algorithms  which  both come along with the guarantee of monotonic ascent in the matching score on the set of discrete assignment matrices. In the experiments we show that our new algorithms outperform previous work both in terms of achieving better matching scores and matching accuracy. This holds in particular for very challenging settings where one has a high number of outliers and other forms of noise.'
+date: 2015
+venue: 'CVPR'
+paperurl: 'http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_A_Flexible_Tensor_2015_CVPR_paper.pdf'
+citation: 'Q. Nguyen, A. Gautier and M. Hein (2015)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_A_Flexible_Tensor_2015_CVPR_paper.pdf)
